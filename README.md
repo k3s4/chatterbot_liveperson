@@ -1,2 +1,2 @@
 # chatterbot_liveperson
-ChatterBot integration with LivePerson
+ChatterBot integration script with LivePerson
